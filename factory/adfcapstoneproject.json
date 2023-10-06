@@ -1,0 +1,9 @@
+{
+	"name": "adfcapstoneproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ab1ab981-de12-4cd9-9909-c2f7943576bc",
+		"tenantId": "2d2199a8-cb98-4269-b2ae-c63cf2b7c7f0"
+	}
+}
