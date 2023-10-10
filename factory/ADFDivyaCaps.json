@@ -1,0 +1,9 @@
+{
+	"name": "ADFDivyaCaps",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6eb16cd9-c0dd-4206-a27c-fc206c630c35",
+		"tenantId": "2d2199a8-cb98-4269-b2ae-c63cf2b7c7f0"
+	}
+}
